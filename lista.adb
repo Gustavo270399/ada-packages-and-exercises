@@ -94,8 +94,5 @@ begin
    Free (actual);
    end if;
 end Suprimir_lista;
---La función realiza la suma recursiva de los elementos del vector hasta la posición indicada por num.
---La función quehace recorre el vector de manera recursiva realizando una sumatoria de sus elementos, desde la posición 1 hasta la posición num.
---En cada llamada recursiva disminuye el valor de num en 1 hasta llegar al caso base (num <= 0), donde retorna 0.
 
 end lista;
